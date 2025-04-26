@@ -1,68 +1,166 @@
-import requests
-import time
-from requests.exceptions import RequestException
-import logging
+import json, requests, pdfplumber
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin, urlparse
+from urllib.robotparser import RobotFileParser
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+HEADERS = {"User-Agent": "NuggetAI-Bot/1.0"}
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+# per-domain CSS selectors
+SITE_SELECTORS = {
+    'indianaccent.com': {
+        'name': '.desktop-nav-logo',
+        'location': '.footer .address',
+        'menu_item': '.menu-section .item',
+        'item_name': '.item-name',
+        'item_desc': '.item-desc',
+        'item_price': '.item-price',
+        'features': '.features li',
+        'hours': '.footer .hours',
+        'contact': '.footer .contact',
+    },
+    'saravanabhavan.com': {
+        'name': 'h1.logo',
+        'location': '.contact-info .address',
+        'menu_item': '.menu-card',
+        'item_name': '.card-title',
+        'item_desc': '.card-text',
+        'item_price': '.price',
+        'features': None,
+        'hours': '.timing',
+        'contact': '.contact-no',
+    },
+    'bikanervala.com': {
+        'name': '.brand-logo',
+        'location': '.location',
+        'menu_item': '.product-item',
+        'item_name': '.title',
+        'item_desc': '.desc',
+        'item_price': '.amount',
+        'features': None,
+        'hours': '.store-hours',
+        'contact': '.phone',
+    },
+    'getyellowchilli.com': {
+        'name': '.navbar-brand',
+        'location': '.restaurant-location',
+        'menu_item': '.menu-item',
+        'item_name': '.name',
+        'item_desc': '.details',
+        'item_price': '.cost',
+        'features': None,
+        'hours': '.open-hours',
+        'contact': '.phone-number',
+    },
+    'sattvik.in': {
+        'name': '.site-logo',
+        'location': '.address-block',
+        'menu_item': '.menu-card',
+        'item_name': 'h4',
+        'item_desc': 'p',
+        'item_price': '.price',
+        'features': None,
+        'hours': '.opening-hours',
+        'contact': '.tel',
+    },
 }
 
-def get_html(url, retries=3, delay=5):
-    """Fetches HTML content from a URL with basic error handling and retries."""
-    for attempt in range(retries):
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=15)
-            response.raise_for_status() # Raise HTTPError for bad responses (4xx or 5xx)
-            # Check if content type is HTML before returning
-            if 'text/html' in response.headers.get('Content-Type', ''):
-                return response.text
-            else:
-                logging.warning(f"Non-HTML content type received from {url}: {response.headers.get('Content-Type')}")
-                return None
-        except RequestException as e:
-            logging.error(f"Attempt {attempt + 1} failed for {url}: {e}")
-            if attempt < retries - 1:
-                time.sleep(delay * (attempt + 1)) # Exponential backoff
-            else:
-                logging.error(f"All retries failed for {url}")
-                return None
-        except Exception as e:
-            logging.error(f"An unexpected error occurred for {url}: {e}")
-            return None
-    return None
+def can_fetch(url):
+    rp = RobotFileParser()
+    rp.set_url(urljoin(url, "/robots.txt"))
+    rp.read()
+    return rp.can_fetch(HEADERS["User-Agent"], url)
 
-def extract_menu_item(item_element):
-    """
-    Placeholder function to extract details for a single menu item.
-    You MUST customize this based on the website's structure.
-    """
+def render_page(url, dom_only=True, timeout=8000):
+    """Return rendered HTML, but only wait for DOMContentLoaded by default."""
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        wait = "domcontentloaded" if dom_only else "networkidle"
+        page.goto(url, timeout=timeout, wait_until=wait)
+        html = page.content()
+        browser.close()
+    return html
+
+def extract_pdf_menu(soup, base_url):
+    # find first PDF link
+    a = soup.select_one('a[href$=".pdf"]')
+    if not a:
+        return []
+    pdf_url = urljoin(base_url, a["href"])
+    resp = requests.get(pdf_url, headers=HEADERS, timeout=15)
+    with open("/tmp/menu.pdf","wb") as f:
+        f.write(resp.content)
+    items = []
+    with pdfplumber.open("/tmp/menu.pdf") as pdf:
+        text = "\n".join(page.extract_text() or "" for page in pdf.pages)
+    for line in text.split("\n"):
+        parts = line.rsplit(" ",1)
+        if len(parts)==2 and any(ch.isdigit() for ch in parts[1]):
+            items.append({"name": parts[0].strip(), "price": parts[1].strip()})
+    return items
+
+def scrape_restaurant(url):
+    if not can_fetch(url):
+        raise RuntimeError(f"Disallowed by robots.txt: {url}")
+
+    # 1) fetch raw HTML quickly
     try:
-        name = item_element.find('h4', class_='menu-item-name').text.strip() # Example selector
-        description = item_element.find('p', class_='menu-item-description').text.strip() # Example selector
-        price = item_element.find('span', class_='menu-item-price').text.strip() # Example selector
+        html = render_page(url, dom_only=True, timeout=8000)
+    except PlaywrightTimeout:
+        html = render_page(url, dom_only=True, timeout=16000)  # one longer try
+    soup = BeautifulSoup(html, "html.parser")
 
-        # Feature extraction - highly custom
-        features = []
-        if "vegetarian" in description.lower() or item_element.find('span', class_='veg-icon'):
-            features.append("vegetarian")
-        if "gluten-free" in description.lower() or "GF" in name:
-            features.append("gluten-free")
-        # Add logic for spice levels, etc.
+    # 2) build skeleton
+    data = {"url": url, "name":"", "location":"", "hours":"", "contact":"", "menu":[], "features":[]}
 
-        return {
-            "item_name": name,
-            "description": description,
-            "price": price,
-            "category": "Unknown", # You might get this from a parent element
-            "features": features
-        }
-    except AttributeError as e:
-        logging.warning(f"Could not parse menu item fully: {e}. Element: {item_element.prettify()[:200]}...")
-        return None
-    except Exception as e:
-        logging.error(f"Unexpected error parsing menu item: {e}")
-        return None
+    # 3) try JSON-LD
+    for tag in soup.select('script[type="application/ld+json"]'):
+        try:
+            jd = json.loads(tag.string)
+            if jd.get("@type","").lower() in ("restaurant","foodestablishment"):
+                data.update({
+                    "name": jd.get("name",""),
+                    "location": jd.get("address",{}).get("streetAddress",""),
+                    "hours": jd.get("openingHours",""),
+                    "contact": jd.get("telephone","")
+                })
+                break
+        except:
+            pass
 
-# --- Add more utility functions if needed ---
+    # 4) try PDF menu
+    pdf_items = extract_pdf_menu(soup, url)
+    if pdf_items:
+        data["menu"] = pdf_items
+
+    # 5) CSS fallback only for missing pieces
+    domain = urlparse(url).netloc.replace("www.","")
+    sel = SITE_SELECTORS.get(domain,{})
+    def st(ctx, s): 
+        n = ctx.select_one(s) if s else None
+        return n.get_text(strip=True) if n else ""
+
+    if not data["name"]:
+        data["name"] = st(soup, sel.get("name"))
+    if not data["location"]:
+        data["location"] = st(soup, sel.get("location"))
+    if not data["hours"]:
+        data["hours"] = st(soup, sel.get("hours"))
+    if not data["contact"]:
+        data["contact"] = st(soup, sel.get("contact"))
+
+    # CSS menu fallback
+    if not data["menu"] and sel.get("menu_item"):
+        for blk in soup.select(sel["menu_item"]):
+            data["menu"].append({
+                "name":  st(blk, sel.get("item_name")),
+                "desc":  st(blk, sel.get("item_desc")),
+                "price": st(blk, sel.get("item_price"))
+            })
+
+    # features fallback
+    if sel.get("features"):
+        data["features"] = [li.get_text(strip=True) for li in soup.select(sel["features"])]
+
+    return data
