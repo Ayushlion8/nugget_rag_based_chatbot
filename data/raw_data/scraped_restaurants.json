@@ -1,0 +1,468 @@
+[
+  {
+    "restaurant_name": "Spice Villa",
+    "location": "123 MG Road, Bengaluru, Karnataka",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-80-1234-5678",
+    "special_features": [
+      "Vegetarian options",
+      "Spice levels: mild, medium, hot",
+      "Gluten-free on request"
+    ],
+    "website_scraped": "http://spicevilla.example.com",
+    "menu": [
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Cottage cheese cubes in creamy tomato gravy",
+        "price": "₹250",
+        "category": "Main Course",
+        "dietary_flags": ["Vegetarian", "Gluten-Free"],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic & cilantro",
+        "price": "₹60",
+        "category": "Bread",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Vegetable Manchurian",
+        "description": "Crispy veg balls in Indo-Chinese sauce",
+        "price": "₹180",
+        "category": "Appetizer",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils simmered with butter & cream",
+        "price": "₹200",
+        "category": "Main Course",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Fresh mango puree blended with yogurt & honey",
+        "price": "₹120",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Butter Chicken",
+        "description": "Tender chicken in rich buttery tomato sauce",
+        "price": "₹300",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Biryani",
+        "description": "Fragrant rice with mixed vegetables and spices",
+        "price": "₹220",
+        "category": "Rice",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Biryani",
+        "description": "Basmati rice layered with marinated chicken and saffron",
+        "price": "₹320",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Samosa (2 pcs)",
+        "description": "Fried pastry stuffed with spiced potato peas filling",
+        "price": "₹80",
+        "category": "Snack",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings in sugar syrup",
+        "price": "₹120",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Ocean's Catch",
+    "location": "Pier 17, Marine Drive, Chennai, Tamil Nadu",
+    "operating_hours": "11:30 AM - 11:00 PM",
+    "contact_info": "+91-44-7654-3210",
+    "special_features": [
+      "Seafood specialty",
+      "Ocean view seating",
+      "Halal certified"
+    ],
+    "website_scraped": "https://oceanscatch.example.com",
+    "menu": [
+      {
+        "item_name": "Grilled Seabass",
+        "description": "Atlantic seabass with lemon butter sauce",
+        "price": "₹550",
+        "category": "Seafood",
+        "dietary_flags": ["Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Prawn Curry",
+        "description": "Spicy Goan style prawns in coconut gravy",
+        "price": "₹400",
+        "category": "Curry",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Biryani",
+        "description": "Rice layered with marinated fish and spices",
+        "price": "₹450",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Calamari Fry",
+        "description": "Crispy fried squid rings with tartar dip",
+        "price": "₹300",
+        "category": "Appetizer",
+        "dietary_flags": ["Seafood"],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Lemon Butter Prawns",
+        "description": "Prawns tossed in garlic lemon butter",
+        "price": "₹480",
+        "category": "Seafood",
+        "dietary_flags": ["Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Seafood Platter",
+        "description": "Assortment of fish, prawns, mussels & calamari",
+        "price": "₹750",
+        "category": "Platter",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Lobster Thermidor",
+        "description": "Creamy baked lobster with cheese crust",
+        "price": "₹1200",
+        "category": "Seafood",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Crab Masala",
+        "description": "Spicy crab curry with traditional masalas",
+        "price": "₹650",
+        "category": "Curry",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Tacos (3 pcs)",
+        "description": "Soft tortillas with spiced fish & slaw",
+        "price": "₹350",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Clam Chowder",
+        "description": "Creamy soup with clams and potatoes",
+        "price": "₹280",
+        "category": "Soup",
+        "dietary_flags": ["Gluten-Free"],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Sweet Delight",
+    "location": "9 Brigade Road, Bengaluru, Karnataka",
+    "operating_hours": "10:00 AM - 10:00 PM",
+    "contact_info": "+91-80-8765-4321",
+    "special_features": [
+      "Dessert bar",
+      "Custom cake orders",
+      "Sugar-free options"
+    ],
+    "website_scraped": "http://sweetdelight.example.com",
+    "menu": [
+      {
+        "item_name": "Chocolate Éclair",
+        "description": "Choux pastry with vanilla cream & chocolate glaze",
+        "price": "₹120",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Caramel Latte",
+        "description": "Espresso with steamed milk & caramel syrup",
+        "price": "₹150",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Macaron Assortment",
+        "description": "Raspberry, pistachio & chocolate macarons",
+        "price": "₹250",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Red Velvet Cupcake",
+        "description": "Red velvet cake with cream cheese frosting",
+        "price": "₹100",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Iced Mocha",
+        "description": "Cold espresso drink with chocolate & whipped cream",
+        "price": "₹140",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Strawberry Cheesecake",
+        "description": "Classic cheesecake with fresh strawberry topping",
+        "price": "₹180",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tiramisu",
+        "description": "Coffee-soaked ladyfingers with mascarpone cream",
+        "price": "₹200",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Brownie Sundae",
+        "description": "Warm brownie with vanilla ice cream & chocolate sauce",
+        "price": "₹220",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Fruit Tart",
+        "description": "Pastry shell with custard & fresh fruits",
+        "price": "₹160",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Cappuccino",
+        "description": "Espresso with steamed milk foam",
+        "price": "₹130",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Urban Diner",
+    "location": "78 High Street, Mumbai, Maharashtra",
+    "operating_hours": "12:00 PM - 2:00 AM",
+    "contact_info": "+91-22-2345-6789",
+    "special_features": ["Late-night menu", "Bar available", "Kids' menu"],
+    "website_scraped": "http://urbandiner.example.com",
+    "menu": [
+      {
+        "item_name": "Classic Cheeseburger",
+        "description": "Beef patty, cheddar, lettuce, tomato & special sauce",
+        "price": "₹350",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Truffle Fries",
+        "description": "Shoestring fries tossed in truffle oil & parmesan",
+        "price": "₹150",
+        "category": "Sides",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Brownie Sundae",
+        "description": "Warm brownie, vanilla ice cream & chocolate drizzle",
+        "price": "₹200",
+        "category": "Dessert",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Caesar Salad",
+        "description": "Romaine, parmesan, croutons & Caesar dressing",
+        "price": "₹180",
+        "category": "Salad",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Club Sandwich",
+        "description": "Turkey, bacon, lettuce, tomato & mayo on toasted bread",
+        "price": "₹300",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken Wings (6 pcs)",
+        "description": "Spicy buffalo wings with blue cheese dip",
+        "price": "₹280",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Pancakes Stack",
+        "description": "Fluffy pancakes with maple syrup & butter",
+        "price": "₹220",
+        "category": "Breakfast",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Milkshake",
+        "description": "Creamy chocolate shake topped with whipped cream",
+        "price": "₹180",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Onion Rings",
+        "description": "Crispy beer-battered onion rings",
+        "price": "₹120",
+        "category": "Sides",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "BBQ Ribs",
+        "description": "Slow-cooked pork ribs with BBQ sauce",
+        "price": "₹450",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Green Leaf Café",
+    "location": "45 Park Street, Kolkata, West Bengal",
+    "operating_hours": "8:00 AM - 8:00 PM",
+    "contact_info": "+91-33-9876-5432",
+    "special_features": [
+      "Vegan friendly",
+      "Organic ingredients",
+      "Allergen information available"
+    ],
+    "website_scraped": "http://greenleafcafe.example.com",
+    "menu": [
+      {
+        "item_name": "Quinoa Salad Bowl",
+        "description": "Quinoa, mixed greens, tomatoes & lemon vinaigrette",
+        "price": "₹320",
+        "category": "Salad",
+        "dietary_flags": ["Vegetarian", "Vegan", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Avocado Toast",
+        "description": "Multigrain bread with smashed avocado & chili flakes",
+        "price": "₹180",
+        "category": "Breakfast",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Cold-Pressed Orange Juice",
+        "description": "Freshly squeezed organic oranges",
+        "price": "₹100",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian", "Vegan", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Vegan Burger",
+        "description": "Plant-based patty, lettuce, tomato & vegan mayo",
+        "price": "₹250",
+        "category": "Main Course",
+        "dietary_flags": ["Vegan"],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hummus Plate",
+        "description": "Hummus with pita bread & veg sticks",
+        "price": "₹200",
+        "category": "Appetizer",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Falafel Wrap",
+        "description": "Falafel, lettuce, tomato & tahini in flatbread",
+        "price": "₹220",
+        "category": "Main Course",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Smoothie Bowl",
+        "description": "Acai, banana, berries & granola",
+        "price": "₹300",
+        "category": "Breakfast",
+        "dietary_flags": ["Vegetarian", "Vegan", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Greek Salad",
+        "description": "Cucumber, olives, feta, tomato & olive oil",
+        "price": "₹240",
+        "category": "Salad",
+        "dietary_flags": ["Vegetarian", "Gluten-Free"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Vegan Pancakes",
+        "description": "Fluffy pancakes with almond milk & maple syrup",
+        "price": "₹260",
+        "category": "Breakfast",
+        "dietary_flags": ["Vegetarian", "Vegan"],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Detox Juice",
+        "description": "Green juice with kale, apple, ginger & lemon",
+        "price": "₹150",
+        "category": "Beverage",
+        "dietary_flags": ["Vegetarian", "Vegan", "Gluten-Free"],
+        "spice_level": ""
+      }
+    ]
+  }
+]
