@@ -10,11 +10,11 @@ from sentence_transformers import SentenceTransformer
 # --- Configuration ---
 # Assuming script is run from the root 'ZOMATO_RAG_CHATBOT/nugget_rag_based_chatbot/' directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Gets nugget_rag_based_chatbot directory
-CHUNK_INPUT_PATH = os.path.join(BASE_DIR, "data", "kb_chunks.pkl")
-METADATA_INPUT_PATH = os.path.join(BASE_DIR, "data", "kb_metadata.pkl")
+CHUNK_INPUT_PATH = os.path.join(BASE_DIR, "data", "lucknow_with_menus_kb_chunks.pkl")
+METADATA_INPUT_PATH = os.path.join(BASE_DIR, "data", "lucknow_with_menus_kb_metadata.pkl")
 PROCESSED_DATA_DIR = os.path.join(BASE_DIR, "data", "processed_data")
-INDEX_OUTPUT_PATH = os.path.join(PROCESSED_DATA_DIR, "restaurant_index.faiss")
-MAPPING_OUTPUT_PATH = os.path.join(PROCESSED_DATA_DIR, "index_to_doc_mapping.pkl")
+INDEX_OUTPUT_PATH = os.path.join(PROCESSED_DATA_DIR, "lucknow_with_menus_restaurant_index.faiss")
+MAPPING_OUTPUT_PATH = os.path.join(PROCESSED_DATA_DIR, "lucknow_with_menus_index_to_doc_mapping.pkl")
 
 # Choose a sentence transformer model
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2' # Consistent with previous step

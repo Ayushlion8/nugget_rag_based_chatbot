@@ -1,0 +1,268 @@
+[
+  {
+    "restaurant_name": "Plan B Cafe And Lounge",
+    "location": "Kempinski Hotel, Husainganj, Lucknow",
+    "operating_hours": "12:00 PM - 11:00 PM",
+    "contact_info": "+91-522-4053434",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/plan-b-cafe-and-lounge-kempinski-hotel-husainganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/plan-b-cafe-and-lounge-kempinski-hotel-husainganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Shakuntala Palace",
+    "location": "62/16, Station Road, Husain Ganj, Lucknow",
+    "operating_hours": "11:00 AM - 8:00 PM",
+    "contact_info": "+91-8172947730",
+    "special_features": [
+      "Chinese",
+      "BBQ",
+      "Ice Cream"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/shakuntala-palace-3-husain-ganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/shakuntala-palace-3-husain-ganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Branche - Hotel Golden Tulip",
+    "location": "6, Station Road, Husain Ganj, Lucknow",
+    "operating_hours": "7:00 AM - 11:00 PM",
+    "contact_info": "+91-522-6722000",
+    "special_features": [
+      "Fine Dining",
+      "Live Music"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/branche-hotel-golden-tulip-husain-ganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/branche-hotel-golden-tulip-husain-ganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Ecotel Cafe",
+    "location": "Plot 6, behind Charbagh Bus Stand, Kanpur Road, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-9119900936",
+    "special_features": [
+      "North Indian",
+      "Chinese",
+      "Mughlai"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/ecotel-cafe-kanpur-road",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/ecotel-cafe-kanpur-road/order"
+    ]
+  },
+  {
+    "restaurant_name": "WOW! Momo",
+    "location": "Shop B, Phoenix Palassio Mall, Gomti Nagar, Lucknow",
+    "operating_hours": "11:00 AM - 4:00 AM",
+    "contact_info": "+91-919836198361",
+    "special_features": [
+      "Momos",
+      "Fast Food"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/wow-momo-2-gomti-nagar",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/wow-momo-2-gomti-nagar/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "location": "3, Uttam Palace, Sapru Marg, Hazratganj, Lucknow",
+    "operating_hours": "11:00 AM - 2:45 AM",
+    "contact_info": "+91-522-4081129",
+    "special_features": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/dominos-pizza-1-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/dominos-pizza-1-hazratganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Kwality Wall's Ice Cream And More",
+    "location": "Multiple outlets, Lucknow",
+    "operating_hours": "10:00 AM - 10:00 PM",
+    "contact_info": "+91-522-1234567",
+    "special_features": [
+      "Desserts",
+      "Beverages"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/kwality-walls-ice-cream-and-more-delivery-7-aliganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/kwality-walls-ice-cream-and-more-delivery-7-aliganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "1936 - Saraca Lucknow",
+    "location": "19, Mall Avenue, Sapru Marg, Lucknow",
+    "operating_hours": "11:00 AM - 11:30 PM",
+    "contact_info": "+91-522-2238333",
+    "special_features": [
+      "Italian",
+      "Desserts"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/1936-saraca-lucknow-sapru-marg",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/1936-saraca-lucknow-sapru-marg/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Saraca Rooftop",
+    "location": "Lebua Lucknow, Hazratganj, Lucknow",
+    "operating_hours": "12:00 PM - 1:00 AM",
+    "contact_info": "+91-522-2238333",
+    "special_features": [
+      "Live Music",
+      "Rooftop Dining"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/saraca-rooftop-lucknow-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/saraca-rooftop-lucknow-hazratganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Saffron Kitchen Restaurant",
+    "location": "D 208-209, Sahara Plaza, Patrakarpuram Chauraha, Gomti Nagar, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-919198863444",
+    "special_features": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/saffron-kitchen-restaurant-gomti-nagar",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/saffron-kitchen-restaurant-gomti-nagar/menu"
+    ]
+  },
+  {
+    "restaurant_name": "The Saffron Restaurant",
+    "location": "1/138 B, Tulip Tower, Sector 1, Aliganj, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-522-4060567",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/the-saffron-restaurant-aliganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/the-saffron-restaurant-aliganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Maa Purnagiri Restaurant",
+    "location": "Munne Lal Dharamshala Road, Sabzi Mandi, Charbagh, Lucknow",
+    "operating_hours": "8:00 AM - 11:00 PM",
+    "contact_info": "+91-9235703455",
+    "special_features": [
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/maa-purnagiri-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/maa-purnagiri-restaurant-charbagh/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Radical Palace Restaurant",
+    "location": "Hotel Radical Palace, Naka Hindola, Charbagh, Lucknow",
+    "operating_hours": "10:00 AM - 10:00 PM",
+    "contact_info": "+91-7309674992",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/radical-palace-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/radical-palace-restaurant-charbagh/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Maharaja Restaurant",
+    "location": "92/218A, G B Marg, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 12:00 AM",
+    "contact_info": "+91-522-4027222",
+    "special_features": [
+      "North Indian",
+      "Biryani"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/maharaja-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/maharaja-restaurant-charbagh/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Milan Restaurant",
+    "location": "Refugee Market, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-8738952615",
+    "special_features": [
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/milan-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/milan-restaurant-charbagh/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Noodle Inc.",
+    "location": "92/206, Gautam Budh Marg, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-7309674992",
+    "special_features": [
+      "Chinese",
+      "Shake"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/noodle-inc-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/noodle-inc-charbagh/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Pizza Dine",
+    "location": "57A, Rana Pratap Marg, Hazratganj, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-8009662266",
+    "special_features": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/the-pizza-dine-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/the-pizza-dine-hazratganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "Vito's Pizzeria",
+    "location": "36/6 Kha, Sapru Marg, Hazratganj, Lucknow",
+    "operating_hours": "1:00 PM - 12:00 AM",
+    "contact_info": "+91-522-4016987",
+    "special_features": [
+      "Italian",
+      "Pizza"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/vitos-pizzeria-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/vitos-pizzeria-hazratganj/menu"
+    ]
+  },
+  {
+    "restaurant_name": "The Mixtape",
+    "location": "Tcg-4/4, Vibhuti Khand, Rohtas Presidential Arcade, Gomti Nagar, Lucknow",
+    "operating_hours": "11:00 AM - 11:30 PM",
+    "contact_info": "+91-8881113167",
+    "special_features": [
+      "Continental",
+      "Pizza"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/the-mixtape-gomti-nagar",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/the-mixtape-gomti-nagar/menu"
+    ]
+  }
+]
