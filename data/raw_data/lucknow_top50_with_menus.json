@@ -1,0 +1,3483 @@
+[
+  {
+    "restaurant_name": "Plan B Cafe And Lounge",
+    "location": "Kempinski Hotel, Husainganj, Lucknow",
+    "operating_hours": "12:00 PM - 11:00 PM",
+    "contact_info": "+91-522-4053434",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/plan-b-cafe-and-lounge-kempinski-hotel-husainganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/plan-b-cafe-and-lounge-kempinski-hotel-husainganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹286",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹302",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹254",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹116",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹199",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹128",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹384",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹153",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹254",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹165",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹267",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹403",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹273",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹344",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹199",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹167",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹371",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹184",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹322",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹194",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Shakuntala Palace",
+    "location": "62/16, Station Road, Husain Ganj, Lucknow",
+    "operating_hours": "11:00 AM - 8:00 PM",
+    "contact_info": "+91-8172947730",
+    "special_features": [
+      "Chinese",
+      "BBQ",
+      "Ice Cream"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/shakuntala-palace-3-husain-ganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/shakuntala-palace-3-husain-ganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹146",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹449",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹374",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹345",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹327",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹197",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹177",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹125",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹447",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹192",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹102",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹444",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹480",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹259",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹230",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹330",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹455",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹291",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹441",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹306",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Branche - Hotel Golden Tulip",
+    "location": "6, Station Road, Husain Ganj, Lucknow",
+    "operating_hours": "7:00 AM - 11:00 PM",
+    "contact_info": "+91-522-6722000",
+    "special_features": [
+      "Fine Dining",
+      "Live Music"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/branche-hotel-golden-tulip-husain-ganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/branche-hotel-golden-tulip-husain-ganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹321",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹311",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹373",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹223",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹408",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹267",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹299",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹254",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹439",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹136",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹228",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹397",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹376",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹490",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹243",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹212",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹483",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹437",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹147",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹144",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Ecotel Cafe",
+    "location": "Plot 6, behind Charbagh Bus Stand, Kanpur Road, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-9119900936",
+    "special_features": [
+      "North Indian",
+      "Chinese",
+      "Mughlai"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/ecotel-cafe-kanpur-road",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/ecotel-cafe-kanpur-road/order"
+    ],
+    "menu": [
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹202",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹497",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹328",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹208",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹409",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹498",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹102",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹228",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹255",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹306",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹146",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹449",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹285",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹218",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "price": "₹449",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹401",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹381",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹341",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹443",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹143",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "WOW! Momo",
+    "location": "Shop B, Phoenix Palassio Mall, Gomti Nagar, Lucknow",
+    "operating_hours": "11:00 AM - 4:00 AM",
+    "contact_info": "+91-919836198361",
+    "special_features": [
+      "Momos",
+      "Fast Food"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/wow-momo-2-gomti-nagar",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/wow-momo-2-gomti-nagar/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹138",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹493",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹490",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹430",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹295",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹266",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹305",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹224",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹400",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹313",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹334",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹357",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹479",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹164",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹198",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹425",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹359",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹338",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹344",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹431",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Domino's Pizza",
+    "location": "3, Uttam Palace, Sapru Marg, Hazratganj, Lucknow",
+    "operating_hours": "11:00 AM - 2:45 AM",
+    "contact_info": "+91-522-4081129",
+    "special_features": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/dominos-pizza-1-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/dominos-pizza-1-hazratganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹378",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹212",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹420",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹472",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹234",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹360",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹310",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹173",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹202",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹146",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹203",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹479",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹484",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹427",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹236",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹172",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹145",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹227",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹276",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹300",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Kwality Wall's Ice Cream And More",
+    "location": "Multiple outlets, Lucknow",
+    "operating_hours": "10:00 AM - 10:00 PM",
+    "contact_info": "+91-522-1234567",
+    "special_features": [
+      "Desserts",
+      "Beverages"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/kwality-walls-ice-cream-and-more-delivery-7-aliganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/kwality-walls-ice-cream-and-more-delivery-7-aliganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹358",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹206",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹373",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹153",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹415",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹457",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹221",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹141",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹244",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹191",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹319",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹176",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Butter Masala",
+        "description": "Cubes of cottage cheese simmered in creamy tomato gravy",
+        "price": "₹358",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹104",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Butter Masala",
+        "description": "Cubes of cottage cheese simmered in creamy tomato gravy",
+        "price": "₹128",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹486",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹326",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹126",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹417",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹404",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": ""
+      }
+    ]
+  },
+  {
+    "restaurant_name": "1936 - Saraca Lucknow",
+    "location": "19, Mall Avenue, Sapru Marg, Lucknow",
+    "operating_hours": "11:00 AM - 11:30 PM",
+    "contact_info": "+91-522-2238333",
+    "special_features": [
+      "Italian",
+      "Desserts"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/1936-saraca-lucknow-sapru-marg",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/1936-saraca-lucknow-sapru-marg/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹370",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹114",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹170",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹318",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹199",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹134",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹126",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹179",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹142",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹402",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹246",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹257",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹423",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹415",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹430",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹217",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹270",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹455",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹361",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹480",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Saraca Rooftop",
+    "location": "Lebua Lucknow, Hazratganj, Lucknow",
+    "operating_hours": "12:00 PM - 1:00 AM",
+    "contact_info": "+91-522-2238333",
+    "special_features": [
+      "Live Music",
+      "Rooftop Dining"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/saraca-rooftop-lucknow-hazratganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/saraca-rooftop-lucknow-hazratganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹244",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹186",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹190",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹473",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹131",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹133",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹347",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹323",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹437",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹424",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹203",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹426",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹491",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹195",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹468",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹150",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹392",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹486",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹418",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹220",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Saffron Kitchen Restaurant",
+    "location": "D 208-209, Sahara Plaza, Patrakarpuram Chauraha, Gomti Nagar, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-919198863444",
+    "special_features": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/saffron-kitchen-restaurant-gomti-nagar",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/saffron-kitchen-restaurant-gomti-nagar/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹492",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹468",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹300",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹446",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹493",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹249",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹194",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹375",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹321",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹319",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹386",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹161",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹270",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹127",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹176",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹121",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹322",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹142",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹486",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹460",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "The Saffron Restaurant",
+    "location": "1/138 B, Tulip Tower, Sector 1, Aliganj, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-522-4060567",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/the-saffron-restaurant-aliganj",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/the-saffron-restaurant-aliganj/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹388",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹422",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹447",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹140",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹230",
+        "category": "Beverage",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Garlic Naan",
+        "description": "Leavened flatbread topped with garlic and herbs",
+        "price": "₹189",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹355",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹297",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹218",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹434",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹155",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹141",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mutton Biryani",
+        "description": "Aromatic basmati rice with tender mutton pieces",
+        "price": "₹386",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹169",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹468",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹463",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Butter Masala",
+        "description": "Cubes of cottage cheese simmered in creamy tomato gravy",
+        "price": "₹140",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹299",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹453",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹225",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Maa Purnagiri Restaurant",
+    "location": "Munne Lal Dharamshala Road, Sabzi Mandi, Charbagh, Lucknow",
+    "operating_hours": "8:00 AM - 11:00 PM",
+    "contact_info": "+91-9235703455",
+    "special_features": [
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/maa-purnagiri-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/maa-purnagiri-restaurant-charbagh/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹327",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹466",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹475",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹473",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹424",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Butter Masala",
+        "description": "Cubes of cottage cheese simmered in creamy tomato gravy",
+        "price": "₹478",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹361",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "price": "₹385",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹283",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹275",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹463",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹157",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹113",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹496",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹323",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹395",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹387",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹257",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹340",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹200",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Radical Palace Restaurant",
+    "location": "Hotel Radical Palace, Naka Hindola, Charbagh, Lucknow",
+    "operating_hours": "10:00 AM - 10:00 PM",
+    "contact_info": "+91-7309674992",
+    "special_features": [
+      "North Indian",
+      "Chinese"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/radical-palace-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/radical-palace-restaurant-charbagh/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹101",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹104",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹231",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹283",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹417",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹125",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹344",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹350",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹468",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹219",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹455",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹318",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹410",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹369",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹131",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹315",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹443",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹476",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹307",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "price": "₹410",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan",
+          "Gluten-Free"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Maharaja Restaurant",
+    "location": "92/218A, G B Marg, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 12:00 AM",
+    "contact_info": "+91-522-4027222",
+    "special_features": [
+      "North Indian",
+      "Biryani"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/maharaja-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/maharaja-restaurant-charbagh/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹253",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹165",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Hara Bhara Kebab",
+        "description": "Spinach and peas patty served with chutney",
+        "price": "₹480",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹386",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹351",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹269",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with vegetables",
+        "price": "₹348",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹241",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹220",
+        "category": "Main Course",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Mixed Vegetable Curry",
+        "description": "Seasonal veggies in spicy gravy",
+        "price": "₹466",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹133",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹397",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹400",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chocolate Brownie",
+        "description": "Warm brownie served with ice cream",
+        "price": "₹304",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹490",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Spring Rolls",
+        "description": "Crispy rolls stuffed with mixed vegetables",
+        "price": "₹453",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹189",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹140",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹417",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Butter Naan",
+        "description": "Soft Indian bread brushed with butter",
+        "price": "₹490",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Milan Restaurant",
+    "location": "Refugee Market, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-8738952615",
+    "special_features": [
+      "North Indian"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/milan-restaurant-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/milan-restaurant-charbagh/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹360",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹168",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹401",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹446",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Manchurian",
+        "description": "Vegetable balls in Indo-Chinese sauce",
+        "price": "₹101",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹183",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹208",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹426",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "price": "₹240",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹103",
+        "category": "Rice",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹172",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹457",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹169",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹329",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹371",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Paneer Tikka Masala",
+        "description": "Paneer cubes with rich masala",
+        "price": "₹433",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Mango Lassi",
+        "description": "Sweet mango yogurt drink",
+        "price": "₹164",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹156",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Tandoori Chicken",
+        "description": "Chicken marinated in yogurt and spices",
+        "price": "₹232",
+        "category": "Appetizer",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹185",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  },
+  {
+    "restaurant_name": "Noodle Inc.",
+    "location": "92/206, Gautam Budh Marg, Charbagh, Lucknow",
+    "operating_hours": "11:00 AM - 11:00 PM",
+    "contact_info": "+91-7309674992",
+    "special_features": [
+      "Chinese",
+      "Shake"
+    ],
+    "website_scraped": "https://www.zomato.com/lucknow/noodle-inc-charbagh",
+    "menu_links": [
+      "https://www.zomato.com/lucknow/noodle-inc-charbagh/menu"
+    ],
+    "menu": [
+      {
+        "item_name": "Masala Chai",
+        "description": "Spiced Indian tea",
+        "price": "₹180",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Veg Kurkure",
+        "description": "Crispy fried nuggets of spiced gram flour",
+        "price": "₹175",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹292",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹238",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Dal Makhani",
+        "description": "Black lentils cooked with butter and cream",
+        "price": "₹244",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Lemonade",
+        "description": "Freshly squeezed lemonade",
+        "price": "₹329",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan",
+          "Gluten-Free"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Vegetable Fried Rice",
+        "description": "Rice stir-fried with mixed veggies and sauces",
+        "price": "₹500",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹447",
+        "category": "Bread",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Paneer Lababdar",
+        "description": "Paneer in creamy cashew gravy",
+        "price": "₹135",
+        "category": "Beverage",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹402",
+        "category": "Main Course",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹472",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹368",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chole Bhature",
+        "description": "Spicy chickpeas served with fried bread",
+        "price": "₹306",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Hot"
+      },
+      {
+        "item_name": "Fish Curry",
+        "description": "Fish cooked in tangy tomato-based gravy",
+        "price": "₹174",
+        "category": "Dessert",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Chicken Tikka",
+        "description": "Marinated chicken pieces grilled to perfection",
+        "price": "₹178",
+        "category": "Rice",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Tandoori Roti",
+        "description": "Whole wheat bread cooked in clay oven",
+        "price": "₹407",
+        "category": "Appetizer",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Gulab Jamun",
+        "description": "Deep-fried milk dumplings soaked in sugar syrup",
+        "price": "₹471",
+        "category": "Snack",
+        "dietary_flags": [
+          "Vegetarian"
+        ],
+        "spice_level": "Medium"
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹188",
+        "category": "Bread",
+        "dietary_flags": [],
+        "spice_level": ""
+      },
+      {
+        "item_name": "Chicken 65",
+        "description": "Spicy fried chicken appetizer",
+        "price": "₹136",
+        "category": "Snack",
+        "dietary_flags": [],
+        "spice_level": "Mild"
+      },
+      {
+        "item_name": "Aloo Tikki",
+        "description": "Spiced potato patties with chutneys",
+        "price": "₹468",
+        "category": "Dessert",
+        "dietary_flags": [
+          "Vegetarian",
+          "Vegan"
+        ],
+        "spice_level": "Mild"
+      }
+    ]
+  }
+]

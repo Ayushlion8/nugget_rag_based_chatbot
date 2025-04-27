@@ -8,9 +8,9 @@ import pickle
 # --- Configuration ---
 # Assuming script is run from the root 'ZOMATO_RAG_CHATBOT/nugget_rag_based_chatbot/' directory
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) # Gets nugget_rag_based_chatbot directory
-RAW_DATA_PATH = os.path.join(BASE_DIR, "data", "raw_data", "scraped_restaurants.json")
-CHUNK_OUTPUT_PATH = os.path.join(BASE_DIR, "data", "kb_chunks.pkl")
-METADATA_OUTPUT_PATH = os.path.join(BASE_DIR, "data", "kb_metadata.pkl")
+RAW_DATA_PATH = os.path.join(BASE_DIR, "data", "raw_data", "lucknow_top50_with_menus.json")
+CHUNK_OUTPUT_PATH = os.path.join(BASE_DIR, "data", "lucknow_with_menus_kb_chunks.pkl")
+METADATA_OUTPUT_PATH = os.path.join(BASE_DIR, "data", "lucknow_with_menus_kb_metadata.pkl")
 OUTPUT_DATA_DIR = os.path.join(BASE_DIR, "data")
 
 # --- Helper Functions ---
