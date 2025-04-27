@@ -45,12 +45,6 @@ Zomato Zenie streamlines restaurant discovery by scraping live menu details, die
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Mission & Value Proposition
-
-Our mission is to empower diners with fast, accurate insights about any restaurant’s offerings. Zomato Zenie transforms ambiguous questions into precise, actionable information—helping users decide where and what to eat with confidence.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Key Features
 
 - *Live Data Scraping:* Extracts restaurant name, location, menu items, descriptions, prices, dietary flags (vegetarian, vegan, gluten-free), spice levels, hours, and contact info using Playwright and BeautifulSoup.<br/>
@@ -134,7 +128,7 @@ The scraper visits 5–10 restaurant sites, respects robots.txt, and collects:
 3. *Configure*
    ```bash
    cp .env.example .env
-   # Add your Hugging Face token(s) under HF_API_TOKENS
+   # Add your Hugging Face token(s) under HF_API_TOKENS and GEMINI_API_TOKEN as well
    ```
 4. *Run scraper*
    ```bash
