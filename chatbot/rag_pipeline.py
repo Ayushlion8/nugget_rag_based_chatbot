@@ -46,9 +46,9 @@ current_token_index = 0 # Start with the first token in the list
 
 # --- SELECT YOUR LANGUAGE MODEL HERE ---
 # HF_MODEL_ID = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-HF_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
+# HF_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 # HF_MODEL_ID = "microsoft/Phi-3-mini-4k-instruct"
-# HF_MODEL_ID = "google/gemma-2b-it"
+HF_MODEL_ID = "google/gemma-2b-it"
 
 # --- End Model Selection ---
 
