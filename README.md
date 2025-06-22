@@ -12,7 +12,7 @@
     <br />
     <a href="https://github.com/Ayushlion8/nugget_rag_based_chatbot">View Repository</a>
     ·
-    <a href="https://youtu.be/your_demo_link">Watch the Demo</a>
+    <a href="[https://youtu.be/your_demo_link](https://youtu.be/8ev5UXfyhJ8?si=gc6ualemldpJ9Dcz)">Watch the Demo</a>
     ·
     <a href="#contributing">Contributing</a>
   </p>
